@@ -6,5 +6,3 @@ Utilizzare questa routine è equivalente a scegliere un valore sulle ascisse a p
 
 ![s(zita)](sovraelongazionePercentuale.png)
 
-#### TODO:
-- aumentare la robustezza della funzione
